@@ -139,4 +139,4 @@ puts "the results: #{results.inspect}"
 ## Copyright
 
 Copyright (c) 2012 Jorge Valdivia.
-Copyright (c) 2013 Leif Gensert, [Propertybase GmbH](http://propertybase.com)
+Copyright (c) 2013 Leif Gensert, [Propertybase GmbH](http://propertybase.com)test
